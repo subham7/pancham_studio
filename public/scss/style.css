@@ -152,7 +152,7 @@
 @import url("https://fonts.googleapis.com/css?family=Spectral:600i&display=swap");
 @font-face {
   font-family: "Product";
-  src: url("/public/fonts/prod.ttf");
+  src: url("/fonts/prod.ttf");
 }
 
 .color-dark {
