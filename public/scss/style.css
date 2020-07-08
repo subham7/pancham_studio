@@ -35682,11 +35682,19 @@ body.template-color-1 .cart-table td.pro-addtocart button {
   background-color: #0038e3;
 }
 
-body.template-color-1 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-1 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #0038e3;
 }
 
-body.template-color-1 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-1 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #0038e3;
 }
 
@@ -35694,16 +35702,19 @@ body.template-color-1 .slider-business .video-btn a .video-icon.secondary-color 
   background: #0038e3 !important;
 }
 
-body.template-color-1 a.brook-btn.bk-btn-yellow, body.template-color-1 button.brook-btn.bk-btn-yellow {
+body.template-color-1 a.brook-btn.bk-btn-yellow,
+body.template-color-1 button.brook-btn.bk-btn-yellow {
   background: #0038e3;
   color: #fff !important;
 }
 
-body.template-color-1 a.bk-btn.theme-btn, body.template-color-1 button.bk-btn.theme-btn {
+body.template-color-1 a.bk-btn.theme-btn,
+body.template-color-1 button.bk-btn.theme-btn {
   background-color: #0038e3;
 }
 
-body.template-color-1 a.brook-btn.bk-btn-red, body.template-color-1 button.brook-btn.bk-btn-red {
+body.template-color-1 a.brook-btn.bk-btn-red,
+body.template-color-1 button.brook-btn.bk-btn-red {
   background: #0038e3;
 }
 
@@ -35809,7 +35820,7 @@ body.template-color-1 .team.team_style--1 .image-wrap .thumb .overlay.red-color 
   background-color: #0038e3;
 }
 
-body.template-color-1 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-1 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #0038e3;
 }
 
@@ -35855,7 +35866,8 @@ body.template-color-1 .blog-grid--modern.blog-standard.blog-yellow-color .post-t
   background: #0038e3;
 }
 
-body.template-color-1 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-1 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-1 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-1 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #0038e3;
 }
 
@@ -35992,7 +36004,7 @@ body.template-color-1 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-1 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #0038e3;
+  background-color: #000;
 }
 
 body.template-color-1 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -36290,11 +36302,19 @@ body.template-color-2 .cart-table td.pro-addtocart button {
   background-color: #fe378c;
 }
 
-body.template-color-2 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-2 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #fe378c;
 }
 
-body.template-color-2 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-2 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #fe378c;
 }
 
@@ -36302,16 +36322,19 @@ body.template-color-2 .slider-business .video-btn a .video-icon.secondary-color 
   background: #fe378c !important;
 }
 
-body.template-color-2 a.brook-btn.bk-btn-yellow, body.template-color-2 button.brook-btn.bk-btn-yellow {
+body.template-color-2 a.brook-btn.bk-btn-yellow,
+body.template-color-2 button.brook-btn.bk-btn-yellow {
   background: #fe378c;
   color: #fff !important;
 }
 
-body.template-color-2 a.bk-btn.theme-btn, body.template-color-2 button.bk-btn.theme-btn {
+body.template-color-2 a.bk-btn.theme-btn,
+body.template-color-2 button.bk-btn.theme-btn {
   background-color: #fe378c;
 }
 
-body.template-color-2 a.brook-btn.bk-btn-red, body.template-color-2 button.brook-btn.bk-btn-red {
+body.template-color-2 a.brook-btn.bk-btn-red,
+body.template-color-2 button.brook-btn.bk-btn-red {
   background: #fe378c;
 }
 
@@ -36417,7 +36440,7 @@ body.template-color-2 .team.team_style--1 .image-wrap .thumb .overlay.red-color 
   background-color: #fe378c;
 }
 
-body.template-color-2 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-2 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #fe378c;
 }
 
@@ -36463,7 +36486,8 @@ body.template-color-2 .blog-grid--modern.blog-standard.blog-yellow-color .post-t
   background: #fe378c;
 }
 
-body.template-color-2 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-2 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-2 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-2 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #fe378c;
 }
 
@@ -36600,7 +36624,7 @@ body.template-color-2 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-2 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #fe378c;
+  background-color: #000;
 }
 
 body.template-color-2 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -36898,11 +36922,19 @@ body.template-color-3 .cart-table td.pro-addtocart button {
   background-color: #f0263f;
 }
 
-body.template-color-3 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-3 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #f0263f;
 }
 
-body.template-color-3 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-3 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #f0263f;
 }
 
@@ -36910,16 +36942,19 @@ body.template-color-3 .slider-business .video-btn a .video-icon.secondary-color 
   background: #f0263f !important;
 }
 
-body.template-color-3 a.brook-btn.bk-btn-yellow, body.template-color-3 button.brook-btn.bk-btn-yellow {
+body.template-color-3 a.brook-btn.bk-btn-yellow,
+body.template-color-3 button.brook-btn.bk-btn-yellow {
   background: #f0263f;
   color: #fff !important;
 }
 
-body.template-color-3 a.bk-btn.theme-btn, body.template-color-3 button.bk-btn.theme-btn {
+body.template-color-3 a.bk-btn.theme-btn,
+body.template-color-3 button.bk-btn.theme-btn {
   background-color: #f0263f;
 }
 
-body.template-color-3 a.brook-btn.bk-btn-red, body.template-color-3 button.brook-btn.bk-btn-red {
+body.template-color-3 a.brook-btn.bk-btn-red,
+body.template-color-3 button.brook-btn.bk-btn-red {
   background: #f0263f;
 }
 
@@ -37025,7 +37060,7 @@ body.template-color-3 .team.team_style--1 .image-wrap .thumb .overlay.red-color 
   background-color: #f0263f;
 }
 
-body.template-color-3 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-3 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #f0263f;
 }
 
@@ -37071,7 +37106,8 @@ body.template-color-3 .blog-grid--modern.blog-standard.blog-yellow-color .post-t
   background: #f0263f;
 }
 
-body.template-color-3 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-3 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-3 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-3 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #f0263f;
 }
 
@@ -37208,7 +37244,7 @@ body.template-color-3 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-3 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #f0263f;
+  background-color: #000;
 }
 
 body.template-color-3 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -37506,11 +37542,19 @@ body.template-color-4 .cart-table td.pro-addtocart button {
   background-color: #fcb72b;
 }
 
-body.template-color-4 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-4 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #fcb72b;
 }
 
-body.template-color-4 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-4 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #fcb72b;
 }
 
@@ -37518,16 +37562,19 @@ body.template-color-4 .slider-business .video-btn a .video-icon.secondary-color 
   background: #fcb72b !important;
 }
 
-body.template-color-4 a.brook-btn.bk-btn-yellow, body.template-color-4 button.brook-btn.bk-btn-yellow {
+body.template-color-4 a.brook-btn.bk-btn-yellow,
+body.template-color-4 button.brook-btn.bk-btn-yellow {
   background: #fcb72b;
   color: #fff !important;
 }
 
-body.template-color-4 a.bk-btn.theme-btn, body.template-color-4 button.bk-btn.theme-btn {
+body.template-color-4 a.bk-btn.theme-btn,
+body.template-color-4 button.bk-btn.theme-btn {
   background-color: #fcb72b;
 }
 
-body.template-color-4 a.brook-btn.bk-btn-red, body.template-color-4 button.brook-btn.bk-btn-red {
+body.template-color-4 a.brook-btn.bk-btn-red,
+body.template-color-4 button.brook-btn.bk-btn-red {
   background: #fcb72b;
 }
 
@@ -37633,7 +37680,7 @@ body.template-color-4 .team.team_style--1 .image-wrap .thumb .overlay.red-color 
   background-color: #fcb72b;
 }
 
-body.template-color-4 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-4 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #fcb72b;
 }
 
@@ -37679,7 +37726,8 @@ body.template-color-4 .blog-grid--modern.blog-standard.blog-yellow-color .post-t
   background: #fcb72b;
 }
 
-body.template-color-4 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-4 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-4 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-4 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #fcb72b;
 }
 
@@ -37816,7 +37864,7 @@ body.template-color-4 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-4 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #fcb72b;
+  background-color: #000;
 }
 
 body.template-color-4 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -38114,11 +38162,19 @@ body.template-color-5 .cart-table td.pro-addtocart button {
   background-color: #f8a440;
 }
 
-body.template-color-5 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-5 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #f8a440;
 }
 
-body.template-color-5 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-5 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #f8a440;
 }
 
@@ -38126,16 +38182,19 @@ body.template-color-5 .slider-business .video-btn a .video-icon.secondary-color 
   background: #f8a440 !important;
 }
 
-body.template-color-5 a.brook-btn.bk-btn-yellow, body.template-color-5 button.brook-btn.bk-btn-yellow {
+body.template-color-5 a.brook-btn.bk-btn-yellow,
+body.template-color-5 button.brook-btn.bk-btn-yellow {
   background: #f8a440;
   color: #fff !important;
 }
 
-body.template-color-5 a.bk-btn.theme-btn, body.template-color-5 button.bk-btn.theme-btn {
+body.template-color-5 a.bk-btn.theme-btn,
+body.template-color-5 button.bk-btn.theme-btn {
   background-color: #f8a440;
 }
 
-body.template-color-5 a.brook-btn.bk-btn-red, body.template-color-5 button.brook-btn.bk-btn-red {
+body.template-color-5 a.brook-btn.bk-btn-red,
+body.template-color-5 button.brook-btn.bk-btn-red {
   background: #f8a440;
 }
 
@@ -38241,7 +38300,7 @@ body.template-color-5 .team.team_style--1 .image-wrap .thumb .overlay.red-color 
   background-color: #f8a440;
 }
 
-body.template-color-5 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-5 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #f8a440;
 }
 
@@ -38287,7 +38346,8 @@ body.template-color-5 .blog-grid--modern.blog-standard.blog-yellow-color .post-t
   background: #f8a440;
 }
 
-body.template-color-5 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-5 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-5 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-5 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #f8a440;
 }
 
@@ -38424,7 +38484,7 @@ body.template-color-5 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-5 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #f8a440;
+  background-color: #000;
 }
 
 body.template-color-5 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -38722,11 +38782,19 @@ body.template-color-6 .cart-table td.pro-addtocart button {
   background-color: #f05874;
 }
 
-body.template-color-6 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-6 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #f05874;
 }
 
-body.template-color-6 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-6 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #f05874;
 }
 
@@ -38734,16 +38802,19 @@ body.template-color-6 .slider-business .video-btn a .video-icon.secondary-color 
   background: #f05874 !important;
 }
 
-body.template-color-6 a.brook-btn.bk-btn-yellow, body.template-color-6 button.brook-btn.bk-btn-yellow {
+body.template-color-6 a.brook-btn.bk-btn-yellow,
+body.template-color-6 button.brook-btn.bk-btn-yellow {
   background: #f05874;
   color: #fff !important;
 }
 
-body.template-color-6 a.bk-btn.theme-btn, body.template-color-6 button.bk-btn.theme-btn {
+body.template-color-6 a.bk-btn.theme-btn,
+body.template-color-6 button.bk-btn.theme-btn {
   background-color: #f05874;
 }
 
-body.template-color-6 a.brook-btn.bk-btn-red, body.template-color-6 button.brook-btn.bk-btn-red {
+body.template-color-6 a.brook-btn.bk-btn-red,
+body.template-color-6 button.brook-btn.bk-btn-red {
   background: #f05874;
 }
 
@@ -38849,7 +38920,7 @@ body.template-color-6 .team.team_style--1 .image-wrap .thumb .overlay.red-color 
   background-color: #f05874;
 }
 
-body.template-color-6 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-6 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #f05874;
 }
 
@@ -38895,7 +38966,8 @@ body.template-color-6 .blog-grid--modern.blog-standard.blog-yellow-color .post-t
   background: #f05874;
 }
 
-body.template-color-6 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-6 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-6 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-6 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #f05874;
 }
 
@@ -39032,7 +39104,7 @@ body.template-color-6 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-6 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #f05874;
+  background-color: #000;
 }
 
 body.template-color-6 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -39330,11 +39402,19 @@ body.template-color-7 .cart-table td.pro-addtocart button {
   background-color: #99e5e8;
 }
 
-body.template-color-7 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-7 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #99e5e8;
 }
 
-body.template-color-7 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-7 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #99e5e8;
 }
 
@@ -39342,16 +39422,19 @@ body.template-color-7 .slider-business .video-btn a .video-icon.secondary-color 
   background: #99e5e8 !important;
 }
 
-body.template-color-7 a.brook-btn.bk-btn-yellow, body.template-color-7 button.brook-btn.bk-btn-yellow {
+body.template-color-7 a.brook-btn.bk-btn-yellow,
+body.template-color-7 button.brook-btn.bk-btn-yellow {
   background: #99e5e8;
   color: #fff !important;
 }
 
-body.template-color-7 a.bk-btn.theme-btn, body.template-color-7 button.bk-btn.theme-btn {
+body.template-color-7 a.bk-btn.theme-btn,
+body.template-color-7 button.bk-btn.theme-btn {
   background-color: #99e5e8;
 }
 
-body.template-color-7 a.brook-btn.bk-btn-red, body.template-color-7 button.brook-btn.bk-btn-red {
+body.template-color-7 a.brook-btn.bk-btn-red,
+body.template-color-7 button.brook-btn.bk-btn-red {
   background: #99e5e8;
 }
 
@@ -39457,7 +39540,7 @@ body.template-color-7 .team.team_style--1 .image-wrap .thumb .overlay.red-color 
   background-color: #99e5e8;
 }
 
-body.template-color-7 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-7 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #99e5e8;
 }
 
@@ -39503,7 +39586,8 @@ body.template-color-7 .blog-grid--modern.blog-standard.blog-yellow-color .post-t
   background: #99e5e8;
 }
 
-body.template-color-7 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-7 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-7 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-7 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #99e5e8;
 }
 
@@ -39640,7 +39724,7 @@ body.template-color-7 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-7 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #99e5e8;
+  background-color: #000;
 }
 
 body.template-color-7 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -39938,11 +40022,19 @@ body.template-color-8 .cart-table td.pro-addtocart button {
   background-color: #82cecf;
 }
 
-body.template-color-8 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-8 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #82cecf;
 }
 
-body.template-color-8 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-8 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #82cecf;
 }
 
@@ -39950,16 +40042,19 @@ body.template-color-8 .slider-business .video-btn a .video-icon.secondary-color 
   background: #82cecf !important;
 }
 
-body.template-color-8 a.brook-btn.bk-btn-yellow, body.template-color-8 button.brook-btn.bk-btn-yellow {
+body.template-color-8 a.brook-btn.bk-btn-yellow,
+body.template-color-8 button.brook-btn.bk-btn-yellow {
   background: #82cecf;
   color: #fff !important;
 }
 
-body.template-color-8 a.bk-btn.theme-btn, body.template-color-8 button.bk-btn.theme-btn {
+body.template-color-8 a.bk-btn.theme-btn,
+body.template-color-8 button.bk-btn.theme-btn {
   background-color: #82cecf;
 }
 
-body.template-color-8 a.brook-btn.bk-btn-red, body.template-color-8 button.brook-btn.bk-btn-red {
+body.template-color-8 a.brook-btn.bk-btn-red,
+body.template-color-8 button.brook-btn.bk-btn-red {
   background: #82cecf;
 }
 
@@ -40065,7 +40160,7 @@ body.template-color-8 .team.team_style--1 .image-wrap .thumb .overlay.red-color 
   background-color: #82cecf;
 }
 
-body.template-color-8 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-8 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #82cecf;
 }
 
@@ -40111,7 +40206,8 @@ body.template-color-8 .blog-grid--modern.blog-standard.blog-yellow-color .post-t
   background: #82cecf;
 }
 
-body.template-color-8 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-8 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-8 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-8 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #82cecf;
 }
 
@@ -40248,7 +40344,7 @@ body.template-color-8 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-8 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #82cecf;
+  background-color: #000;
 }
 
 body.template-color-8 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -40546,11 +40642,19 @@ body.template-color-9 .cart-table td.pro-addtocart button {
   background-color: #f0263f;
 }
 
-body.template-color-9 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-9 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #f0263f;
 }
 
-body.template-color-9 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-9 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #f0263f;
 }
 
@@ -40558,16 +40662,19 @@ body.template-color-9 .slider-business .video-btn a .video-icon.secondary-color 
   background: #f0263f !important;
 }
 
-body.template-color-9 a.brook-btn.bk-btn-yellow, body.template-color-9 button.brook-btn.bk-btn-yellow {
+body.template-color-9 a.brook-btn.bk-btn-yellow,
+body.template-color-9 button.brook-btn.bk-btn-yellow {
   background: #f0263f;
   color: #fff !important;
 }
 
-body.template-color-9 a.bk-btn.theme-btn, body.template-color-9 button.bk-btn.theme-btn {
+body.template-color-9 a.bk-btn.theme-btn,
+body.template-color-9 button.bk-btn.theme-btn {
   background-color: #f0263f;
 }
 
-body.template-color-9 a.brook-btn.bk-btn-red, body.template-color-9 button.brook-btn.bk-btn-red {
+body.template-color-9 a.brook-btn.bk-btn-red,
+body.template-color-9 button.brook-btn.bk-btn-red {
   background: #f0263f;
 }
 
@@ -40673,7 +40780,7 @@ body.template-color-9 .team.team_style--1 .image-wrap .thumb .overlay.red-color 
   background-color: #f0263f;
 }
 
-body.template-color-9 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-9 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #f0263f;
 }
 
@@ -40719,7 +40826,8 @@ body.template-color-9 .blog-grid--modern.blog-standard.blog-yellow-color .post-t
   background: #f0263f;
 }
 
-body.template-color-9 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-9 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-9 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-9 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #f0263f;
 }
 
@@ -40856,7 +40964,7 @@ body.template-color-9 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-9 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #f0263f;
+  background-color: #000;
 }
 
 body.template-color-9 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -41154,11 +41262,19 @@ body.template-color-10 .cart-table td.pro-addtocart button {
   background-color: #19d2a8;
 }
 
-body.template-color-10 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-10 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #19d2a8;
 }
 
-body.template-color-10 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-10 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #19d2a8;
 }
 
@@ -41166,16 +41282,19 @@ body.template-color-10 .slider-business .video-btn a .video-icon.secondary-color
   background: #19d2a8 !important;
 }
 
-body.template-color-10 a.brook-btn.bk-btn-yellow, body.template-color-10 button.brook-btn.bk-btn-yellow {
+body.template-color-10 a.brook-btn.bk-btn-yellow,
+body.template-color-10 button.brook-btn.bk-btn-yellow {
   background: #19d2a8;
   color: #fff !important;
 }
 
-body.template-color-10 a.bk-btn.theme-btn, body.template-color-10 button.bk-btn.theme-btn {
+body.template-color-10 a.bk-btn.theme-btn,
+body.template-color-10 button.bk-btn.theme-btn {
   background-color: #19d2a8;
 }
 
-body.template-color-10 a.brook-btn.bk-btn-red, body.template-color-10 button.brook-btn.bk-btn-red {
+body.template-color-10 a.brook-btn.bk-btn-red,
+body.template-color-10 button.brook-btn.bk-btn-red {
   background: #19d2a8;
 }
 
@@ -41281,7 +41400,7 @@ body.template-color-10 .team.team_style--1 .image-wrap .thumb .overlay.red-color
   background-color: #19d2a8;
 }
 
-body.template-color-10 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-10 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #19d2a8;
 }
 
@@ -41327,7 +41446,8 @@ body.template-color-10 .blog-grid--modern.blog-standard.blog-yellow-color .post-
   background: #19d2a8;
 }
 
-body.template-color-10 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-10 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-10 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-10 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #19d2a8;
 }
 
@@ -41464,7 +41584,7 @@ body.template-color-10 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-10 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #19d2a8;
+  background-color: #000;
 }
 
 body.template-color-10 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -41762,11 +41882,19 @@ body.template-color-11 .cart-table td.pro-addtocart button {
   background-color: #0069ff;
 }
 
-body.template-color-11 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-11 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #0069ff;
 }
 
-body.template-color-11 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-11 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #0069ff;
 }
 
@@ -41774,16 +41902,19 @@ body.template-color-11 .slider-business .video-btn a .video-icon.secondary-color
   background: #0069ff !important;
 }
 
-body.template-color-11 a.brook-btn.bk-btn-yellow, body.template-color-11 button.brook-btn.bk-btn-yellow {
+body.template-color-11 a.brook-btn.bk-btn-yellow,
+body.template-color-11 button.brook-btn.bk-btn-yellow {
   background: #0069ff;
   color: #fff !important;
 }
 
-body.template-color-11 a.bk-btn.theme-btn, body.template-color-11 button.bk-btn.theme-btn {
+body.template-color-11 a.bk-btn.theme-btn,
+body.template-color-11 button.bk-btn.theme-btn {
   background-color: #0069ff;
 }
 
-body.template-color-11 a.brook-btn.bk-btn-red, body.template-color-11 button.brook-btn.bk-btn-red {
+body.template-color-11 a.brook-btn.bk-btn-red,
+body.template-color-11 button.brook-btn.bk-btn-red {
   background: #0069ff;
 }
 
@@ -41889,7 +42020,7 @@ body.template-color-11 .team.team_style--1 .image-wrap .thumb .overlay.red-color
   background-color: #0069ff;
 }
 
-body.template-color-11 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-11 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #0069ff;
 }
 
@@ -41935,7 +42066,8 @@ body.template-color-11 .blog-grid--modern.blog-standard.blog-yellow-color .post-
   background: #0069ff;
 }
 
-body.template-color-11 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-11 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-11 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-11 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #0069ff;
 }
 
@@ -42072,7 +42204,7 @@ body.template-color-11 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-11 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #0069ff;
+  background-color: #000;
 }
 
 body.template-color-11 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -42370,11 +42502,19 @@ body.template-color-12 .cart-table td.pro-addtocart button {
   background-color: #f1c078;
 }
 
-body.template-color-12 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-12 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #f1c078;
 }
 
-body.template-color-12 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-12 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #f1c078;
 }
 
@@ -42382,16 +42522,19 @@ body.template-color-12 .slider-business .video-btn a .video-icon.secondary-color
   background: #f1c078 !important;
 }
 
-body.template-color-12 a.brook-btn.bk-btn-yellow, body.template-color-12 button.brook-btn.bk-btn-yellow {
+body.template-color-12 a.brook-btn.bk-btn-yellow,
+body.template-color-12 button.brook-btn.bk-btn-yellow {
   background: #f1c078;
   color: #fff !important;
 }
 
-body.template-color-12 a.bk-btn.theme-btn, body.template-color-12 button.bk-btn.theme-btn {
+body.template-color-12 a.bk-btn.theme-btn,
+body.template-color-12 button.bk-btn.theme-btn {
   background-color: #f1c078;
 }
 
-body.template-color-12 a.brook-btn.bk-btn-red, body.template-color-12 button.brook-btn.bk-btn-red {
+body.template-color-12 a.brook-btn.bk-btn-red,
+body.template-color-12 button.brook-btn.bk-btn-red {
   background: #f1c078;
 }
 
@@ -42497,7 +42640,7 @@ body.template-color-12 .team.team_style--1 .image-wrap .thumb .overlay.red-color
   background-color: #f1c078;
 }
 
-body.template-color-12 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-12 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #f1c078;
 }
 
@@ -42543,7 +42686,8 @@ body.template-color-12 .blog-grid--modern.blog-standard.blog-yellow-color .post-
   background: #f1c078;
 }
 
-body.template-color-12 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-12 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-12 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-12 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #f1c078;
 }
 
@@ -42680,7 +42824,7 @@ body.template-color-12 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-12 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #f1c078;
+  background-color: #000;
 }
 
 body.template-color-12 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -42978,11 +43122,19 @@ body.template-color-13 .cart-table td.pro-addtocart button {
   background-color: #cac0b3;
 }
 
-body.template-color-13 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-13 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #cac0b3;
 }
 
-body.template-color-13 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-13 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #cac0b3;
 }
 
@@ -42990,16 +43142,19 @@ body.template-color-13 .slider-business .video-btn a .video-icon.secondary-color
   background: #cac0b3 !important;
 }
 
-body.template-color-13 a.brook-btn.bk-btn-yellow, body.template-color-13 button.brook-btn.bk-btn-yellow {
+body.template-color-13 a.brook-btn.bk-btn-yellow,
+body.template-color-13 button.brook-btn.bk-btn-yellow {
   background: #cac0b3;
   color: #fff !important;
 }
 
-body.template-color-13 a.bk-btn.theme-btn, body.template-color-13 button.bk-btn.theme-btn {
+body.template-color-13 a.bk-btn.theme-btn,
+body.template-color-13 button.bk-btn.theme-btn {
   background-color: #cac0b3;
 }
 
-body.template-color-13 a.brook-btn.bk-btn-red, body.template-color-13 button.brook-btn.bk-btn-red {
+body.template-color-13 a.brook-btn.bk-btn-red,
+body.template-color-13 button.brook-btn.bk-btn-red {
   background: #cac0b3;
 }
 
@@ -43105,7 +43260,7 @@ body.template-color-13 .team.team_style--1 .image-wrap .thumb .overlay.red-color
   background-color: #cac0b3;
 }
 
-body.template-color-13 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-13 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #cac0b3;
 }
 
@@ -43151,7 +43306,8 @@ body.template-color-13 .blog-grid--modern.blog-standard.blog-yellow-color .post-
   background: #cac0b3;
 }
 
-body.template-color-13 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-13 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-13 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-13 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #cac0b3;
 }
 
@@ -43288,7 +43444,7 @@ body.template-color-13 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-13 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #cac0b3;
+  background-color: #000;
 }
 
 body.template-color-13 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -43586,11 +43742,19 @@ body.template-color-14 .cart-table td.pro-addtocart button {
   background-color: #f55d4e;
 }
 
-body.template-color-14 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-14 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #f55d4e;
 }
 
-body.template-color-14 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-14 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #f55d4e;
 }
 
@@ -43598,16 +43762,19 @@ body.template-color-14 .slider-business .video-btn a .video-icon.secondary-color
   background: #f55d4e !important;
 }
 
-body.template-color-14 a.brook-btn.bk-btn-yellow, body.template-color-14 button.brook-btn.bk-btn-yellow {
+body.template-color-14 a.brook-btn.bk-btn-yellow,
+body.template-color-14 button.brook-btn.bk-btn-yellow {
   background: #f55d4e;
   color: #fff !important;
 }
 
-body.template-color-14 a.bk-btn.theme-btn, body.template-color-14 button.bk-btn.theme-btn {
+body.template-color-14 a.bk-btn.theme-btn,
+body.template-color-14 button.bk-btn.theme-btn {
   background-color: #f55d4e;
 }
 
-body.template-color-14 a.brook-btn.bk-btn-red, body.template-color-14 button.brook-btn.bk-btn-red {
+body.template-color-14 a.brook-btn.bk-btn-red,
+body.template-color-14 button.brook-btn.bk-btn-red {
   background: #f55d4e;
 }
 
@@ -43713,7 +43880,7 @@ body.template-color-14 .team.team_style--1 .image-wrap .thumb .overlay.red-color
   background-color: #f55d4e;
 }
 
-body.template-color-14 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-14 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #f55d4e;
 }
 
@@ -43759,7 +43926,8 @@ body.template-color-14 .blog-grid--modern.blog-standard.blog-yellow-color .post-
   background: #f55d4e;
 }
 
-body.template-color-14 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-14 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-14 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-14 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #f55d4e;
 }
 
@@ -43896,7 +44064,7 @@ body.template-color-14 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-14 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #f55d4e;
+  background-color: #000;
 }
 
 body.template-color-14 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -44194,11 +44362,19 @@ body.template-color-15 .cart-table td.pro-addtocart button {
   background-color: #ac61ee;
 }
 
-body.template-color-15 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-15 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #ac61ee;
 }
 
-body.template-color-15 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-15 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #ac61ee;
 }
 
@@ -44206,16 +44382,19 @@ body.template-color-15 .slider-business .video-btn a .video-icon.secondary-color
   background: #ac61ee !important;
 }
 
-body.template-color-15 a.brook-btn.bk-btn-yellow, body.template-color-15 button.brook-btn.bk-btn-yellow {
+body.template-color-15 a.brook-btn.bk-btn-yellow,
+body.template-color-15 button.brook-btn.bk-btn-yellow {
   background: #ac61ee;
   color: #fff !important;
 }
 
-body.template-color-15 a.bk-btn.theme-btn, body.template-color-15 button.bk-btn.theme-btn {
+body.template-color-15 a.bk-btn.theme-btn,
+body.template-color-15 button.bk-btn.theme-btn {
   background-color: #ac61ee;
 }
 
-body.template-color-15 a.brook-btn.bk-btn-red, body.template-color-15 button.brook-btn.bk-btn-red {
+body.template-color-15 a.brook-btn.bk-btn-red,
+body.template-color-15 button.brook-btn.bk-btn-red {
   background: #ac61ee;
 }
 
@@ -44321,7 +44500,7 @@ body.template-color-15 .team.team_style--1 .image-wrap .thumb .overlay.red-color
   background-color: #ac61ee;
 }
 
-body.template-color-15 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-15 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #ac61ee;
 }
 
@@ -44367,7 +44546,8 @@ body.template-color-15 .blog-grid--modern.blog-standard.blog-yellow-color .post-
   background: #ac61ee;
 }
 
-body.template-color-15 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-15 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-15 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-15 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #ac61ee;
 }
 
@@ -44504,7 +44684,7 @@ body.template-color-15 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-15 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #ac61ee;
+  background-color: #000;
 }
 
 body.template-color-15 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -44802,11 +44982,19 @@ body.template-color-16 .cart-table td.pro-addtocart button {
   background-color: #f5a623;
 }
 
-body.template-color-16 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-16 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #f5a623;
 }
 
-body.template-color-16 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-16 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #f5a623;
 }
 
@@ -44814,16 +45002,19 @@ body.template-color-16 .slider-business .video-btn a .video-icon.secondary-color
   background: #f5a623 !important;
 }
 
-body.template-color-16 a.brook-btn.bk-btn-yellow, body.template-color-16 button.brook-btn.bk-btn-yellow {
+body.template-color-16 a.brook-btn.bk-btn-yellow,
+body.template-color-16 button.brook-btn.bk-btn-yellow {
   background: #f5a623;
   color: #fff !important;
 }
 
-body.template-color-16 a.bk-btn.theme-btn, body.template-color-16 button.bk-btn.theme-btn {
+body.template-color-16 a.bk-btn.theme-btn,
+body.template-color-16 button.bk-btn.theme-btn {
   background-color: #f5a623;
 }
 
-body.template-color-16 a.brook-btn.bk-btn-red, body.template-color-16 button.brook-btn.bk-btn-red {
+body.template-color-16 a.brook-btn.bk-btn-red,
+body.template-color-16 button.brook-btn.bk-btn-red {
   background: #f5a623;
 }
 
@@ -44929,7 +45120,7 @@ body.template-color-16 .team.team_style--1 .image-wrap .thumb .overlay.red-color
   background-color: #f5a623;
 }
 
-body.template-color-16 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-16 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #f5a623;
 }
 
@@ -44975,7 +45166,8 @@ body.template-color-16 .blog-grid--modern.blog-standard.blog-yellow-color .post-
   background: #f5a623;
 }
 
-body.template-color-16 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-16 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-16 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-16 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #f5a623;
 }
 
@@ -45112,7 +45304,7 @@ body.template-color-16 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-16 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #f5a623;
+  background-color: #000;
 }
 
 body.template-color-16 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -45410,11 +45602,19 @@ body.template-color-17 .cart-table td.pro-addtocart button {
   background-color: #b013fe;
 }
 
-body.template-color-17 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-17 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #b013fe;
 }
 
-body.template-color-17 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-17 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #b013fe;
 }
 
@@ -45422,16 +45622,19 @@ body.template-color-17 .slider-business .video-btn a .video-icon.secondary-color
   background: #b013fe !important;
 }
 
-body.template-color-17 a.brook-btn.bk-btn-yellow, body.template-color-17 button.brook-btn.bk-btn-yellow {
+body.template-color-17 a.brook-btn.bk-btn-yellow,
+body.template-color-17 button.brook-btn.bk-btn-yellow {
   background: #b013fe;
   color: #fff !important;
 }
 
-body.template-color-17 a.bk-btn.theme-btn, body.template-color-17 button.bk-btn.theme-btn {
+body.template-color-17 a.bk-btn.theme-btn,
+body.template-color-17 button.bk-btn.theme-btn {
   background-color: #b013fe;
 }
 
-body.template-color-17 a.brook-btn.bk-btn-red, body.template-color-17 button.brook-btn.bk-btn-red {
+body.template-color-17 a.brook-btn.bk-btn-red,
+body.template-color-17 button.brook-btn.bk-btn-red {
   background: #b013fe;
 }
 
@@ -45537,7 +45740,7 @@ body.template-color-17 .team.team_style--1 .image-wrap .thumb .overlay.red-color
   background-color: #b013fe;
 }
 
-body.template-color-17 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-17 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #b013fe;
 }
 
@@ -45583,7 +45786,8 @@ body.template-color-17 .blog-grid--modern.blog-standard.blog-yellow-color .post-
   background: #b013fe;
 }
 
-body.template-color-17 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-17 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-17 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-17 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #b013fe;
 }
 
@@ -45720,7 +45924,7 @@ body.template-color-17 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-17 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #b013fe;
+  background-color: #000;
 }
 
 body.template-color-17 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -46018,11 +46222,19 @@ body.template-color-18 .cart-table td.pro-addtocart button {
   background-color: #899664;
 }
 
-body.template-color-18 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-18 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #899664;
 }
 
-body.template-color-18 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-18 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #899664;
 }
 
@@ -46030,16 +46242,19 @@ body.template-color-18 .slider-business .video-btn a .video-icon.secondary-color
   background: #899664 !important;
 }
 
-body.template-color-18 a.brook-btn.bk-btn-yellow, body.template-color-18 button.brook-btn.bk-btn-yellow {
+body.template-color-18 a.brook-btn.bk-btn-yellow,
+body.template-color-18 button.brook-btn.bk-btn-yellow {
   background: #899664;
   color: #fff !important;
 }
 
-body.template-color-18 a.bk-btn.theme-btn, body.template-color-18 button.bk-btn.theme-btn {
+body.template-color-18 a.bk-btn.theme-btn,
+body.template-color-18 button.bk-btn.theme-btn {
   background-color: #899664;
 }
 
-body.template-color-18 a.brook-btn.bk-btn-red, body.template-color-18 button.brook-btn.bk-btn-red {
+body.template-color-18 a.brook-btn.bk-btn-red,
+body.template-color-18 button.brook-btn.bk-btn-red {
   background: #899664;
 }
 
@@ -46145,7 +46360,7 @@ body.template-color-18 .team.team_style--1 .image-wrap .thumb .overlay.red-color
   background-color: #899664;
 }
 
-body.template-color-18 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-18 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #899664;
 }
 
@@ -46191,7 +46406,8 @@ body.template-color-18 .blog-grid--modern.blog-standard.blog-yellow-color .post-
   background: #899664;
 }
 
-body.template-color-18 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-18 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-18 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-18 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #899664;
 }
 
@@ -46328,7 +46544,7 @@ body.template-color-18 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-18 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #899664;
+  background-color: #000;
 }
 
 body.template-color-18 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -46626,11 +46842,19 @@ body.template-color-19 .cart-table td.pro-addtocart button {
   background-color: #f12c6e;
 }
 
-body.template-color-19 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-19 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #f12c6e;
 }
 
-body.template-color-19 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-19 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #f12c6e;
 }
 
@@ -46638,16 +46862,19 @@ body.template-color-19 .slider-business .video-btn a .video-icon.secondary-color
   background: #f12c6e !important;
 }
 
-body.template-color-19 a.brook-btn.bk-btn-yellow, body.template-color-19 button.brook-btn.bk-btn-yellow {
+body.template-color-19 a.brook-btn.bk-btn-yellow,
+body.template-color-19 button.brook-btn.bk-btn-yellow {
   background: #f12c6e;
   color: #fff !important;
 }
 
-body.template-color-19 a.bk-btn.theme-btn, body.template-color-19 button.bk-btn.theme-btn {
+body.template-color-19 a.bk-btn.theme-btn,
+body.template-color-19 button.bk-btn.theme-btn {
   background-color: #f12c6e;
 }
 
-body.template-color-19 a.brook-btn.bk-btn-red, body.template-color-19 button.brook-btn.bk-btn-red {
+body.template-color-19 a.brook-btn.bk-btn-red,
+body.template-color-19 button.brook-btn.bk-btn-red {
   background: #f12c6e;
 }
 
@@ -46753,7 +46980,7 @@ body.template-color-19 .team.team_style--1 .image-wrap .thumb .overlay.red-color
   background-color: #f12c6e;
 }
 
-body.template-color-19 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-19 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #f12c6e;
 }
 
@@ -46799,7 +47026,8 @@ body.template-color-19 .blog-grid--modern.blog-standard.blog-yellow-color .post-
   background: #f12c6e;
 }
 
-body.template-color-19 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-19 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-19 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-19 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #f12c6e;
 }
 
@@ -46936,7 +47164,7 @@ body.template-color-19 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-19 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #f12c6e;
+  background-color: #000;
 }
 
 body.template-color-19 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -47234,11 +47462,19 @@ body.template-color-20 .cart-table td.pro-addtocart button {
   background-color: #ce8f4f;
 }
 
-body.template-color-20 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-20 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #ce8f4f;
 }
 
-body.template-color-20 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-20 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #ce8f4f;
 }
 
@@ -47246,16 +47482,19 @@ body.template-color-20 .slider-business .video-btn a .video-icon.secondary-color
   background: #ce8f4f !important;
 }
 
-body.template-color-20 a.brook-btn.bk-btn-yellow, body.template-color-20 button.brook-btn.bk-btn-yellow {
+body.template-color-20 a.brook-btn.bk-btn-yellow,
+body.template-color-20 button.brook-btn.bk-btn-yellow {
   background: #ce8f4f;
   color: #fff !important;
 }
 
-body.template-color-20 a.bk-btn.theme-btn, body.template-color-20 button.bk-btn.theme-btn {
+body.template-color-20 a.bk-btn.theme-btn,
+body.template-color-20 button.bk-btn.theme-btn {
   background-color: #ce8f4f;
 }
 
-body.template-color-20 a.brook-btn.bk-btn-red, body.template-color-20 button.brook-btn.bk-btn-red {
+body.template-color-20 a.brook-btn.bk-btn-red,
+body.template-color-20 button.brook-btn.bk-btn-red {
   background: #ce8f4f;
 }
 
@@ -47361,7 +47600,7 @@ body.template-color-20 .team.team_style--1 .image-wrap .thumb .overlay.red-color
   background-color: #ce8f4f;
 }
 
-body.template-color-20 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-20 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #ce8f4f;
 }
 
@@ -47407,7 +47646,8 @@ body.template-color-20 .blog-grid--modern.blog-standard.blog-yellow-color .post-
   background: #ce8f4f;
 }
 
-body.template-color-20 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-20 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-20 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-20 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #ce8f4f;
 }
 
@@ -47544,7 +47784,7 @@ body.template-color-20 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-20 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #ce8f4f;
+  background-color: #000;
 }
 
 body.template-color-20 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -47842,11 +48082,19 @@ body.template-color-21 .cart-table td.pro-addtocart button {
   background-color: #fb6031;
 }
 
-body.template-color-21 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-21 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #fb6031;
 }
 
-body.template-color-21 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-21 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #fb6031;
 }
 
@@ -47854,16 +48102,19 @@ body.template-color-21 .slider-business .video-btn a .video-icon.secondary-color
   background: #fb6031 !important;
 }
 
-body.template-color-21 a.brook-btn.bk-btn-yellow, body.template-color-21 button.brook-btn.bk-btn-yellow {
+body.template-color-21 a.brook-btn.bk-btn-yellow,
+body.template-color-21 button.brook-btn.bk-btn-yellow {
   background: #fb6031;
   color: #fff !important;
 }
 
-body.template-color-21 a.bk-btn.theme-btn, body.template-color-21 button.bk-btn.theme-btn {
+body.template-color-21 a.bk-btn.theme-btn,
+body.template-color-21 button.bk-btn.theme-btn {
   background-color: #fb6031;
 }
 
-body.template-color-21 a.brook-btn.bk-btn-red, body.template-color-21 button.brook-btn.bk-btn-red {
+body.template-color-21 a.brook-btn.bk-btn-red,
+body.template-color-21 button.brook-btn.bk-btn-red {
   background: #fb6031;
 }
 
@@ -47969,7 +48220,7 @@ body.template-color-21 .team.team_style--1 .image-wrap .thumb .overlay.red-color
   background-color: #fb6031;
 }
 
-body.template-color-21 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-21 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #fb6031;
 }
 
@@ -48015,7 +48266,8 @@ body.template-color-21 .blog-grid--modern.blog-standard.blog-yellow-color .post-
   background: #fb6031;
 }
 
-body.template-color-21 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-21 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-21 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-21 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #fb6031;
 }
 
@@ -48152,7 +48404,7 @@ body.template-color-21 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-21 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #fb6031;
+  background-color: #000;
 }
 
 body.template-color-21 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -48450,11 +48702,19 @@ body.template-color-22 .cart-table td.pro-addtocart button {
   background-color: #a810e0;
 }
 
-body.template-color-22 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-22 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #a810e0;
 }
 
-body.template-color-22 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-22 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #a810e0;
 }
 
@@ -48462,16 +48722,19 @@ body.template-color-22 .slider-business .video-btn a .video-icon.secondary-color
   background: #a810e0 !important;
 }
 
-body.template-color-22 a.brook-btn.bk-btn-yellow, body.template-color-22 button.brook-btn.bk-btn-yellow {
+body.template-color-22 a.brook-btn.bk-btn-yellow,
+body.template-color-22 button.brook-btn.bk-btn-yellow {
   background: #a810e0;
   color: #fff !important;
 }
 
-body.template-color-22 a.bk-btn.theme-btn, body.template-color-22 button.bk-btn.theme-btn {
+body.template-color-22 a.bk-btn.theme-btn,
+body.template-color-22 button.bk-btn.theme-btn {
   background-color: #a810e0;
 }
 
-body.template-color-22 a.brook-btn.bk-btn-red, body.template-color-22 button.brook-btn.bk-btn-red {
+body.template-color-22 a.brook-btn.bk-btn-red,
+body.template-color-22 button.brook-btn.bk-btn-red {
   background: #a810e0;
 }
 
@@ -48577,7 +48840,7 @@ body.template-color-22 .team.team_style--1 .image-wrap .thumb .overlay.red-color
   background-color: #a810e0;
 }
 
-body.template-color-22 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-22 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #a810e0;
 }
 
@@ -48623,7 +48886,8 @@ body.template-color-22 .blog-grid--modern.blog-standard.blog-yellow-color .post-
   background: #a810e0;
 }
 
-body.template-color-22 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-22 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-22 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-22 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #a810e0;
 }
 
@@ -48760,7 +49024,7 @@ body.template-color-22 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-22 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #a810e0;
+  background-color: #000;
 }
 
 body.template-color-22 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -49058,11 +49322,19 @@ body.template-color-23 .cart-table td.pro-addtocart button {
   background-color: #68ae4a;
 }
 
-body.template-color-23 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-23 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #68ae4a;
 }
 
-body.template-color-23 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-23 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #68ae4a;
 }
 
@@ -49070,16 +49342,19 @@ body.template-color-23 .slider-business .video-btn a .video-icon.secondary-color
   background: #68ae4a !important;
 }
 
-body.template-color-23 a.brook-btn.bk-btn-yellow, body.template-color-23 button.brook-btn.bk-btn-yellow {
+body.template-color-23 a.brook-btn.bk-btn-yellow,
+body.template-color-23 button.brook-btn.bk-btn-yellow {
   background: #68ae4a;
   color: #fff !important;
 }
 
-body.template-color-23 a.bk-btn.theme-btn, body.template-color-23 button.bk-btn.theme-btn {
+body.template-color-23 a.bk-btn.theme-btn,
+body.template-color-23 button.bk-btn.theme-btn {
   background-color: #68ae4a;
 }
 
-body.template-color-23 a.brook-btn.bk-btn-red, body.template-color-23 button.brook-btn.bk-btn-red {
+body.template-color-23 a.brook-btn.bk-btn-red,
+body.template-color-23 button.brook-btn.bk-btn-red {
   background: #68ae4a;
 }
 
@@ -49185,7 +49460,7 @@ body.template-color-23 .team.team_style--1 .image-wrap .thumb .overlay.red-color
   background-color: #68ae4a;
 }
 
-body.template-color-23 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-23 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #68ae4a;
 }
 
@@ -49231,7 +49506,8 @@ body.template-color-23 .blog-grid--modern.blog-standard.blog-yellow-color .post-
   background: #68ae4a;
 }
 
-body.template-color-23 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-23 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-23 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-23 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #68ae4a;
 }
 
@@ -49368,7 +49644,7 @@ body.template-color-23 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-23 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #68ae4a;
+  background-color: #000;
 }
 
 body.template-color-23 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -49666,11 +49942,19 @@ body.template-color-24 .cart-table td.pro-addtocart button {
   background-color: #bc9464;
 }
 
-body.template-color-24 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-24 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #bc9464;
 }
 
-body.template-color-24 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-24 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #bc9464;
 }
 
@@ -49678,16 +49962,19 @@ body.template-color-24 .slider-business .video-btn a .video-icon.secondary-color
   background: #bc9464 !important;
 }
 
-body.template-color-24 a.brook-btn.bk-btn-yellow, body.template-color-24 button.brook-btn.bk-btn-yellow {
+body.template-color-24 a.brook-btn.bk-btn-yellow,
+body.template-color-24 button.brook-btn.bk-btn-yellow {
   background: #bc9464;
   color: #fff !important;
 }
 
-body.template-color-24 a.bk-btn.theme-btn, body.template-color-24 button.bk-btn.theme-btn {
+body.template-color-24 a.bk-btn.theme-btn,
+body.template-color-24 button.bk-btn.theme-btn {
   background-color: #bc9464;
 }
 
-body.template-color-24 a.brook-btn.bk-btn-red, body.template-color-24 button.brook-btn.bk-btn-red {
+body.template-color-24 a.brook-btn.bk-btn-red,
+body.template-color-24 button.brook-btn.bk-btn-red {
   background: #bc9464;
 }
 
@@ -49793,7 +50080,7 @@ body.template-color-24 .team.team_style--1 .image-wrap .thumb .overlay.red-color
   background-color: #bc9464;
 }
 
-body.template-color-24 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-24 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #bc9464;
 }
 
@@ -49839,7 +50126,8 @@ body.template-color-24 .blog-grid--modern.blog-standard.blog-yellow-color .post-
   background: #bc9464;
 }
 
-body.template-color-24 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-24 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-24 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-24 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #bc9464;
 }
 
@@ -49976,7 +50264,7 @@ body.template-color-24 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-24 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #bc9464;
+  background-color: #000;
 }
 
 body.template-color-24 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -50274,11 +50562,19 @@ body.template-color-25 .cart-table td.pro-addtocart button {
   background-color: #9f3939;
 }
 
-body.template-color-25 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-25 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #9f3939;
 }
 
-body.template-color-25 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-25 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #9f3939;
 }
 
@@ -50286,16 +50582,19 @@ body.template-color-25 .slider-business .video-btn a .video-icon.secondary-color
   background: #9f3939 !important;
 }
 
-body.template-color-25 a.brook-btn.bk-btn-yellow, body.template-color-25 button.brook-btn.bk-btn-yellow {
+body.template-color-25 a.brook-btn.bk-btn-yellow,
+body.template-color-25 button.brook-btn.bk-btn-yellow {
   background: #9f3939;
   color: #fff !important;
 }
 
-body.template-color-25 a.bk-btn.theme-btn, body.template-color-25 button.bk-btn.theme-btn {
+body.template-color-25 a.bk-btn.theme-btn,
+body.template-color-25 button.bk-btn.theme-btn {
   background-color: #9f3939;
 }
 
-body.template-color-25 a.brook-btn.bk-btn-red, body.template-color-25 button.brook-btn.bk-btn-red {
+body.template-color-25 a.brook-btn.bk-btn-red,
+body.template-color-25 button.brook-btn.bk-btn-red {
   background: #9f3939;
 }
 
@@ -50401,7 +50700,7 @@ body.template-color-25 .team.team_style--1 .image-wrap .thumb .overlay.red-color
   background-color: #9f3939;
 }
 
-body.template-color-25 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-25 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #9f3939;
 }
 
@@ -50447,7 +50746,8 @@ body.template-color-25 .blog-grid--modern.blog-standard.blog-yellow-color .post-
   background: #9f3939;
 }
 
-body.template-color-25 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-25 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-25 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-25 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #9f3939;
 }
 
@@ -50584,7 +50884,7 @@ body.template-color-25 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-25 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #9f3939;
+  background-color: #000;
 }
 
 body.template-color-25 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -50882,11 +51182,19 @@ body.template-color-26 .cart-table td.pro-addtocart button {
   background-color: #7ba100;
 }
 
-body.template-color-26 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-26 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #7ba100;
 }
 
-body.template-color-26 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-26 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #7ba100;
 }
 
@@ -50894,16 +51202,19 @@ body.template-color-26 .slider-business .video-btn a .video-icon.secondary-color
   background: #7ba100 !important;
 }
 
-body.template-color-26 a.brook-btn.bk-btn-yellow, body.template-color-26 button.brook-btn.bk-btn-yellow {
+body.template-color-26 a.brook-btn.bk-btn-yellow,
+body.template-color-26 button.brook-btn.bk-btn-yellow {
   background: #7ba100;
   color: #fff !important;
 }
 
-body.template-color-26 a.bk-btn.theme-btn, body.template-color-26 button.bk-btn.theme-btn {
+body.template-color-26 a.bk-btn.theme-btn,
+body.template-color-26 button.bk-btn.theme-btn {
   background-color: #7ba100;
 }
 
-body.template-color-26 a.brook-btn.bk-btn-red, body.template-color-26 button.brook-btn.bk-btn-red {
+body.template-color-26 a.brook-btn.bk-btn-red,
+body.template-color-26 button.brook-btn.bk-btn-red {
   background: #7ba100;
 }
 
@@ -51009,7 +51320,7 @@ body.template-color-26 .team.team_style--1 .image-wrap .thumb .overlay.red-color
   background-color: #7ba100;
 }
 
-body.template-color-26 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-26 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #7ba100;
 }
 
@@ -51055,7 +51366,8 @@ body.template-color-26 .blog-grid--modern.blog-standard.blog-yellow-color .post-
   background: #7ba100;
 }
 
-body.template-color-26 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-26 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-26 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-26 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #7ba100;
 }
 
@@ -51192,7 +51504,7 @@ body.template-color-26 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-26 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #7ba100;
+  background-color: #000;
 }
 
 body.template-color-26 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -51490,11 +51802,19 @@ body.template-color-27 .cart-table td.pro-addtocart button {
   background-color: #14359e;
 }
 
-body.template-color-27 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-27 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #14359e;
 }
 
-body.template-color-27 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-27 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #14359e;
 }
 
@@ -51502,16 +51822,19 @@ body.template-color-27 .slider-business .video-btn a .video-icon.secondary-color
   background: #14359e !important;
 }
 
-body.template-color-27 a.brook-btn.bk-btn-yellow, body.template-color-27 button.brook-btn.bk-btn-yellow {
+body.template-color-27 a.brook-btn.bk-btn-yellow,
+body.template-color-27 button.brook-btn.bk-btn-yellow {
   background: #14359e;
   color: #fff !important;
 }
 
-body.template-color-27 a.bk-btn.theme-btn, body.template-color-27 button.bk-btn.theme-btn {
+body.template-color-27 a.bk-btn.theme-btn,
+body.template-color-27 button.bk-btn.theme-btn {
   background-color: #14359e;
 }
 
-body.template-color-27 a.brook-btn.bk-btn-red, body.template-color-27 button.brook-btn.bk-btn-red {
+body.template-color-27 a.brook-btn.bk-btn-red,
+body.template-color-27 button.brook-btn.bk-btn-red {
   background: #14359e;
 }
 
@@ -51617,7 +51940,7 @@ body.template-color-27 .team.team_style--1 .image-wrap .thumb .overlay.red-color
   background-color: #14359e;
 }
 
-body.template-color-27 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-27 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #14359e;
 }
 
@@ -51663,7 +51986,8 @@ body.template-color-27 .blog-grid--modern.blog-standard.blog-yellow-color .post-
   background: #14359e;
 }
 
-body.template-color-27 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-27 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-27 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-27 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #14359e;
 }
 
@@ -51800,7 +52124,7 @@ body.template-color-27 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-27 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #14359e;
+  background-color: #000;
 }
 
 body.template-color-27 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -52098,11 +52422,19 @@ body.template-color-28 .cart-table td.pro-addtocart button {
   background-color: #cc327b;
 }
 
-body.template-color-28 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-28 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #cc327b;
 }
 
-body.template-color-28 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-28 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #cc327b;
 }
 
@@ -52110,16 +52442,19 @@ body.template-color-28 .slider-business .video-btn a .video-icon.secondary-color
   background: #cc327b !important;
 }
 
-body.template-color-28 a.brook-btn.bk-btn-yellow, body.template-color-28 button.brook-btn.bk-btn-yellow {
+body.template-color-28 a.brook-btn.bk-btn-yellow,
+body.template-color-28 button.brook-btn.bk-btn-yellow {
   background: #cc327b;
   color: #fff !important;
 }
 
-body.template-color-28 a.bk-btn.theme-btn, body.template-color-28 button.bk-btn.theme-btn {
+body.template-color-28 a.bk-btn.theme-btn,
+body.template-color-28 button.bk-btn.theme-btn {
   background-color: #cc327b;
 }
 
-body.template-color-28 a.brook-btn.bk-btn-red, body.template-color-28 button.brook-btn.bk-btn-red {
+body.template-color-28 a.brook-btn.bk-btn-red,
+body.template-color-28 button.brook-btn.bk-btn-red {
   background: #cc327b;
 }
 
@@ -52225,7 +52560,7 @@ body.template-color-28 .team.team_style--1 .image-wrap .thumb .overlay.red-color
   background-color: #cc327b;
 }
 
-body.template-color-28 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-28 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #cc327b;
 }
 
@@ -52271,7 +52606,8 @@ body.template-color-28 .blog-grid--modern.blog-standard.blog-yellow-color .post-
   background: #cc327b;
 }
 
-body.template-color-28 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-28 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-28 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-28 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #cc327b;
 }
 
@@ -52408,7 +52744,7 @@ body.template-color-28 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-28 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #cc327b;
+  background-color: #000;
 }
 
 body.template-color-28 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -52706,11 +53042,19 @@ body.template-color-29 .cart-table td.pro-addtocart button {
   background-color: #e23636;
 }
 
-body.template-color-29 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-29 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #e23636;
 }
 
-body.template-color-29 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-29 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #e23636;
 }
 
@@ -52718,16 +53062,19 @@ body.template-color-29 .slider-business .video-btn a .video-icon.secondary-color
   background: #e23636 !important;
 }
 
-body.template-color-29 a.brook-btn.bk-btn-yellow, body.template-color-29 button.brook-btn.bk-btn-yellow {
+body.template-color-29 a.brook-btn.bk-btn-yellow,
+body.template-color-29 button.brook-btn.bk-btn-yellow {
   background: #e23636;
   color: #fff !important;
 }
 
-body.template-color-29 a.bk-btn.theme-btn, body.template-color-29 button.bk-btn.theme-btn {
+body.template-color-29 a.bk-btn.theme-btn,
+body.template-color-29 button.bk-btn.theme-btn {
   background-color: #e23636;
 }
 
-body.template-color-29 a.brook-btn.bk-btn-red, body.template-color-29 button.brook-btn.bk-btn-red {
+body.template-color-29 a.brook-btn.bk-btn-red,
+body.template-color-29 button.brook-btn.bk-btn-red {
   background: #e23636;
 }
 
@@ -52833,7 +53180,7 @@ body.template-color-29 .team.team_style--1 .image-wrap .thumb .overlay.red-color
   background-color: #e23636;
 }
 
-body.template-color-29 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-29 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #e23636;
 }
 
@@ -52879,7 +53226,8 @@ body.template-color-29 .blog-grid--modern.blog-standard.blog-yellow-color .post-
   background: #e23636;
 }
 
-body.template-color-29 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-29 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-29 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-29 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #e23636;
 }
 
@@ -53016,7 +53364,7 @@ body.template-color-29 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-29 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #e23636;
+  background-color: #000;
 }
 
 body.template-color-29 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -53314,11 +53662,19 @@ body.template-color-30 .cart-table td.pro-addtocart button {
   background-color: #fb6031;
 }
 
-body.template-color-30 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-30 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #fb6031;
 }
 
-body.template-color-30 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-30 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #fb6031;
 }
 
@@ -53326,16 +53682,19 @@ body.template-color-30 .slider-business .video-btn a .video-icon.secondary-color
   background: #fb6031 !important;
 }
 
-body.template-color-30 a.brook-btn.bk-btn-yellow, body.template-color-30 button.brook-btn.bk-btn-yellow {
+body.template-color-30 a.brook-btn.bk-btn-yellow,
+body.template-color-30 button.brook-btn.bk-btn-yellow {
   background: #fb6031;
   color: #fff !important;
 }
 
-body.template-color-30 a.bk-btn.theme-btn, body.template-color-30 button.bk-btn.theme-btn {
+body.template-color-30 a.bk-btn.theme-btn,
+body.template-color-30 button.bk-btn.theme-btn {
   background-color: #fb6031;
 }
 
-body.template-color-30 a.brook-btn.bk-btn-red, body.template-color-30 button.brook-btn.bk-btn-red {
+body.template-color-30 a.brook-btn.bk-btn-red,
+body.template-color-30 button.brook-btn.bk-btn-red {
   background: #fb6031;
 }
 
@@ -53441,7 +53800,7 @@ body.template-color-30 .team.team_style--1 .image-wrap .thumb .overlay.red-color
   background-color: #fb6031;
 }
 
-body.template-color-30 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-30 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #fb6031;
 }
 
@@ -53487,7 +53846,8 @@ body.template-color-30 .blog-grid--modern.blog-standard.blog-yellow-color .post-
   background: #fb6031;
 }
 
-body.template-color-30 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-30 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-30 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-30 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #fb6031;
 }
 
@@ -53624,7 +53984,7 @@ body.template-color-30 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-30 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #fb6031;
+  background-color: #000;
 }
 
 body.template-color-30 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -53922,11 +54282,19 @@ body.template-color-31 .cart-table td.pro-addtocart button {
   background-color: #906032;
 }
 
-body.template-color-31 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-31 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #906032;
 }
 
-body.template-color-31 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-31 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #906032;
 }
 
@@ -53934,16 +54302,19 @@ body.template-color-31 .slider-business .video-btn a .video-icon.secondary-color
   background: #906032 !important;
 }
 
-body.template-color-31 a.brook-btn.bk-btn-yellow, body.template-color-31 button.brook-btn.bk-btn-yellow {
+body.template-color-31 a.brook-btn.bk-btn-yellow,
+body.template-color-31 button.brook-btn.bk-btn-yellow {
   background: #906032;
   color: #fff !important;
 }
 
-body.template-color-31 a.bk-btn.theme-btn, body.template-color-31 button.bk-btn.theme-btn {
+body.template-color-31 a.bk-btn.theme-btn,
+body.template-color-31 button.bk-btn.theme-btn {
   background-color: #906032;
 }
 
-body.template-color-31 a.brook-btn.bk-btn-red, body.template-color-31 button.brook-btn.bk-btn-red {
+body.template-color-31 a.brook-btn.bk-btn-red,
+body.template-color-31 button.brook-btn.bk-btn-red {
   background: #906032;
 }
 
@@ -54049,7 +54420,7 @@ body.template-color-31 .team.team_style--1 .image-wrap .thumb .overlay.red-color
   background-color: #906032;
 }
 
-body.template-color-31 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-31 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #906032;
 }
 
@@ -54095,7 +54466,8 @@ body.template-color-31 .blog-grid--modern.blog-standard.blog-yellow-color .post-
   background: #906032;
 }
 
-body.template-color-31 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-31 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-31 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-31 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #906032;
 }
 
@@ -54232,7 +54604,7 @@ body.template-color-31 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-31 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #906032;
+  background-color: #000;
 }
 
 body.template-color-31 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -54530,11 +54902,19 @@ body.template-color-32 .cart-table td.pro-addtocart button {
   background-color: #ec5b4b;
 }
 
-body.template-color-32 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-32 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #ec5b4b;
 }
 
-body.template-color-32 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-32 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #ec5b4b;
 }
 
@@ -54542,16 +54922,19 @@ body.template-color-32 .slider-business .video-btn a .video-icon.secondary-color
   background: #ec5b4b !important;
 }
 
-body.template-color-32 a.brook-btn.bk-btn-yellow, body.template-color-32 button.brook-btn.bk-btn-yellow {
+body.template-color-32 a.brook-btn.bk-btn-yellow,
+body.template-color-32 button.brook-btn.bk-btn-yellow {
   background: #ec5b4b;
   color: #fff !important;
 }
 
-body.template-color-32 a.bk-btn.theme-btn, body.template-color-32 button.bk-btn.theme-btn {
+body.template-color-32 a.bk-btn.theme-btn,
+body.template-color-32 button.bk-btn.theme-btn {
   background-color: #ec5b4b;
 }
 
-body.template-color-32 a.brook-btn.bk-btn-red, body.template-color-32 button.brook-btn.bk-btn-red {
+body.template-color-32 a.brook-btn.bk-btn-red,
+body.template-color-32 button.brook-btn.bk-btn-red {
   background: #ec5b4b;
 }
 
@@ -54657,7 +55040,7 @@ body.template-color-32 .team.team_style--1 .image-wrap .thumb .overlay.red-color
   background-color: #ec5b4b;
 }
 
-body.template-color-32 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-32 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #ec5b4b;
 }
 
@@ -54703,7 +55086,8 @@ body.template-color-32 .blog-grid--modern.blog-standard.blog-yellow-color .post-
   background: #ec5b4b;
 }
 
-body.template-color-32 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-32 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-32 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-32 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #ec5b4b;
 }
 
@@ -54840,7 +55224,7 @@ body.template-color-32 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-32 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #ec5b4b;
+  background-color: #000;
 }
 
 body.template-color-32 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -55138,11 +55522,19 @@ body.template-color-33 .cart-table td.pro-addtocart button {
   background-color: #c1b538;
 }
 
-body.template-color-33 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-33 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #c1b538;
 }
 
-body.template-color-33 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-33 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #c1b538;
 }
 
@@ -55150,16 +55542,19 @@ body.template-color-33 .slider-business .video-btn a .video-icon.secondary-color
   background: #c1b538 !important;
 }
 
-body.template-color-33 a.brook-btn.bk-btn-yellow, body.template-color-33 button.brook-btn.bk-btn-yellow {
+body.template-color-33 a.brook-btn.bk-btn-yellow,
+body.template-color-33 button.brook-btn.bk-btn-yellow {
   background: #c1b538;
   color: #fff !important;
 }
 
-body.template-color-33 a.bk-btn.theme-btn, body.template-color-33 button.bk-btn.theme-btn {
+body.template-color-33 a.bk-btn.theme-btn,
+body.template-color-33 button.bk-btn.theme-btn {
   background-color: #c1b538;
 }
 
-body.template-color-33 a.brook-btn.bk-btn-red, body.template-color-33 button.brook-btn.bk-btn-red {
+body.template-color-33 a.brook-btn.bk-btn-red,
+body.template-color-33 button.brook-btn.bk-btn-red {
   background: #c1b538;
 }
 
@@ -55265,7 +55660,7 @@ body.template-color-33 .team.team_style--1 .image-wrap .thumb .overlay.red-color
   background-color: #c1b538;
 }
 
-body.template-color-33 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-33 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #c1b538;
 }
 
@@ -55311,7 +55706,8 @@ body.template-color-33 .blog-grid--modern.blog-standard.blog-yellow-color .post-
   background: #c1b538;
 }
 
-body.template-color-33 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-33 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-33 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-33 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #c1b538;
 }
 
@@ -55448,7 +55844,7 @@ body.template-color-33 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-33 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #c1b538;
+  background-color: #000;
 }
 
 body.template-color-33 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -55746,11 +56142,19 @@ body.template-color-34 .cart-table td.pro-addtocart button {
   background-color: #126cdc;
 }
 
-body.template-color-34 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-34 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #126cdc;
 }
 
-body.template-color-34 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-34 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #126cdc;
 }
 
@@ -55758,16 +56162,19 @@ body.template-color-34 .slider-business .video-btn a .video-icon.secondary-color
   background: #126cdc !important;
 }
 
-body.template-color-34 a.brook-btn.bk-btn-yellow, body.template-color-34 button.brook-btn.bk-btn-yellow {
+body.template-color-34 a.brook-btn.bk-btn-yellow,
+body.template-color-34 button.brook-btn.bk-btn-yellow {
   background: #126cdc;
   color: #fff !important;
 }
 
-body.template-color-34 a.bk-btn.theme-btn, body.template-color-34 button.bk-btn.theme-btn {
+body.template-color-34 a.bk-btn.theme-btn,
+body.template-color-34 button.bk-btn.theme-btn {
   background-color: #126cdc;
 }
 
-body.template-color-34 a.brook-btn.bk-btn-red, body.template-color-34 button.brook-btn.bk-btn-red {
+body.template-color-34 a.brook-btn.bk-btn-red,
+body.template-color-34 button.brook-btn.bk-btn-red {
   background: #126cdc;
 }
 
@@ -55873,7 +56280,7 @@ body.template-color-34 .team.team_style--1 .image-wrap .thumb .overlay.red-color
   background-color: #126cdc;
 }
 
-body.template-color-34 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-34 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #126cdc;
 }
 
@@ -55919,7 +56326,8 @@ body.template-color-34 .blog-grid--modern.blog-standard.blog-yellow-color .post-
   background: #126cdc;
 }
 
-body.template-color-34 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-34 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-34 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-34 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #126cdc;
 }
 
@@ -56056,7 +56464,7 @@ body.template-color-34 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-34 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #126cdc;
+  background-color: #000;
 }
 
 body.template-color-34 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -56354,11 +56762,19 @@ body.template-color-35 .cart-table td.pro-addtocart button {
   background-color: #f50809;
 }
 
-body.template-color-35 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-35 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #f50809;
 }
 
-body.template-color-35 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-35 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #f50809;
 }
 
@@ -56366,16 +56782,19 @@ body.template-color-35 .slider-business .video-btn a .video-icon.secondary-color
   background: #f50809 !important;
 }
 
-body.template-color-35 a.brook-btn.bk-btn-yellow, body.template-color-35 button.brook-btn.bk-btn-yellow {
+body.template-color-35 a.brook-btn.bk-btn-yellow,
+body.template-color-35 button.brook-btn.bk-btn-yellow {
   background: #f50809;
   color: #fff !important;
 }
 
-body.template-color-35 a.bk-btn.theme-btn, body.template-color-35 button.bk-btn.theme-btn {
+body.template-color-35 a.bk-btn.theme-btn,
+body.template-color-35 button.bk-btn.theme-btn {
   background-color: #f50809;
 }
 
-body.template-color-35 a.brook-btn.bk-btn-red, body.template-color-35 button.brook-btn.bk-btn-red {
+body.template-color-35 a.brook-btn.bk-btn-red,
+body.template-color-35 button.brook-btn.bk-btn-red {
   background: #f50809;
 }
 
@@ -56481,7 +56900,7 @@ body.template-color-35 .team.team_style--1 .image-wrap .thumb .overlay.red-color
   background-color: #f50809;
 }
 
-body.template-color-35 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-35 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #f50809;
 }
 
@@ -56527,7 +56946,8 @@ body.template-color-35 .blog-grid--modern.blog-standard.blog-yellow-color .post-
   background: #f50809;
 }
 
-body.template-color-35 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-35 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-35 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-35 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #f50809;
 }
 
@@ -56664,7 +57084,7 @@ body.template-color-35 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-35 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #f50809;
+  background-color: #000;
 }
 
 body.template-color-35 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -56962,11 +57382,19 @@ body.template-color-36 .cart-table td.pro-addtocart button {
   background-color: #4be472;
 }
 
-body.template-color-36 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-36 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #4be472;
 }
 
-body.template-color-36 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-36 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #4be472;
 }
 
@@ -56974,16 +57402,19 @@ body.template-color-36 .slider-business .video-btn a .video-icon.secondary-color
   background: #4be472 !important;
 }
 
-body.template-color-36 a.brook-btn.bk-btn-yellow, body.template-color-36 button.brook-btn.bk-btn-yellow {
+body.template-color-36 a.brook-btn.bk-btn-yellow,
+body.template-color-36 button.brook-btn.bk-btn-yellow {
   background: #4be472;
   color: #fff !important;
 }
 
-body.template-color-36 a.bk-btn.theme-btn, body.template-color-36 button.bk-btn.theme-btn {
+body.template-color-36 a.bk-btn.theme-btn,
+body.template-color-36 button.bk-btn.theme-btn {
   background-color: #4be472;
 }
 
-body.template-color-36 a.brook-btn.bk-btn-red, body.template-color-36 button.brook-btn.bk-btn-red {
+body.template-color-36 a.brook-btn.bk-btn-red,
+body.template-color-36 button.brook-btn.bk-btn-red {
   background: #4be472;
 }
 
@@ -57089,7 +57520,7 @@ body.template-color-36 .team.team_style--1 .image-wrap .thumb .overlay.red-color
   background-color: #4be472;
 }
 
-body.template-color-36 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-36 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #4be472;
 }
 
@@ -57135,7 +57566,8 @@ body.template-color-36 .blog-grid--modern.blog-standard.blog-yellow-color .post-
   background: #4be472;
 }
 
-body.template-color-36 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-36 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-36 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-36 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #4be472;
 }
 
@@ -57272,7 +57704,7 @@ body.template-color-36 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-36 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #4be472;
+  background-color: #000;
 }
 
 body.template-color-36 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -57570,11 +58002,19 @@ body.template-color-37 .cart-table td.pro-addtocart button {
   background-color: #da9d55;
 }
 
-body.template-color-37 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-37 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #da9d55;
 }
 
-body.template-color-37 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-37 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #da9d55;
 }
 
@@ -57582,16 +58022,19 @@ body.template-color-37 .slider-business .video-btn a .video-icon.secondary-color
   background: #da9d55 !important;
 }
 
-body.template-color-37 a.brook-btn.bk-btn-yellow, body.template-color-37 button.brook-btn.bk-btn-yellow {
+body.template-color-37 a.brook-btn.bk-btn-yellow,
+body.template-color-37 button.brook-btn.bk-btn-yellow {
   background: #da9d55;
   color: #fff !important;
 }
 
-body.template-color-37 a.bk-btn.theme-btn, body.template-color-37 button.bk-btn.theme-btn {
+body.template-color-37 a.bk-btn.theme-btn,
+body.template-color-37 button.bk-btn.theme-btn {
   background-color: #da9d55;
 }
 
-body.template-color-37 a.brook-btn.bk-btn-red, body.template-color-37 button.brook-btn.bk-btn-red {
+body.template-color-37 a.brook-btn.bk-btn-red,
+body.template-color-37 button.brook-btn.bk-btn-red {
   background: #da9d55;
 }
 
@@ -57697,7 +58140,7 @@ body.template-color-37 .team.team_style--1 .image-wrap .thumb .overlay.red-color
   background-color: #da9d55;
 }
 
-body.template-color-37 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-37 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #da9d55;
 }
 
@@ -57743,7 +58186,8 @@ body.template-color-37 .blog-grid--modern.blog-standard.blog-yellow-color .post-
   background: #da9d55;
 }
 
-body.template-color-37 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-37 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-37 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-37 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #da9d55;
 }
 
@@ -57880,7 +58324,7 @@ body.template-color-37 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-37 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #da9d55;
+  background-color: #000;
 }
 
 body.template-color-37 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -58178,11 +58622,19 @@ body.template-color-38 .cart-table td.pro-addtocart button {
   background-color: #3264f5;
 }
 
-body.template-color-38 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-38 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #3264f5;
 }
 
-body.template-color-38 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-38 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #3264f5;
 }
 
@@ -58190,16 +58642,19 @@ body.template-color-38 .slider-business .video-btn a .video-icon.secondary-color
   background: #3264f5 !important;
 }
 
-body.template-color-38 a.brook-btn.bk-btn-yellow, body.template-color-38 button.brook-btn.bk-btn-yellow {
+body.template-color-38 a.brook-btn.bk-btn-yellow,
+body.template-color-38 button.brook-btn.bk-btn-yellow {
   background: #3264f5;
   color: #fff !important;
 }
 
-body.template-color-38 a.bk-btn.theme-btn, body.template-color-38 button.bk-btn.theme-btn {
+body.template-color-38 a.bk-btn.theme-btn,
+body.template-color-38 button.bk-btn.theme-btn {
   background-color: #3264f5;
 }
 
-body.template-color-38 a.brook-btn.bk-btn-red, body.template-color-38 button.brook-btn.bk-btn-red {
+body.template-color-38 a.brook-btn.bk-btn-red,
+body.template-color-38 button.brook-btn.bk-btn-red {
   background: #3264f5;
 }
 
@@ -58305,7 +58760,7 @@ body.template-color-38 .team.team_style--1 .image-wrap .thumb .overlay.red-color
   background-color: #3264f5;
 }
 
-body.template-color-38 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-38 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #3264f5;
 }
 
@@ -58351,7 +58806,8 @@ body.template-color-38 .blog-grid--modern.blog-standard.blog-yellow-color .post-
   background: #3264f5;
 }
 
-body.template-color-38 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-38 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-38 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-38 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #3264f5;
 }
 
@@ -58488,7 +58944,7 @@ body.template-color-38 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-38 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #3264f5;
+  background-color: #000;
 }
 
 body.template-color-38 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -58786,11 +59242,19 @@ body.template-color-39 .cart-table td.pro-addtocart button {
   background-color: #ffc851;
 }
 
-body.template-color-39 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-39 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #ffc851;
 }
 
-body.template-color-39 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-39 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #ffc851;
 }
 
@@ -58798,16 +59262,19 @@ body.template-color-39 .slider-business .video-btn a .video-icon.secondary-color
   background: #ffc851 !important;
 }
 
-body.template-color-39 a.brook-btn.bk-btn-yellow, body.template-color-39 button.brook-btn.bk-btn-yellow {
+body.template-color-39 a.brook-btn.bk-btn-yellow,
+body.template-color-39 button.brook-btn.bk-btn-yellow {
   background: #ffc851;
   color: #fff !important;
 }
 
-body.template-color-39 a.bk-btn.theme-btn, body.template-color-39 button.bk-btn.theme-btn {
+body.template-color-39 a.bk-btn.theme-btn,
+body.template-color-39 button.bk-btn.theme-btn {
   background-color: #ffc851;
 }
 
-body.template-color-39 a.brook-btn.bk-btn-red, body.template-color-39 button.brook-btn.bk-btn-red {
+body.template-color-39 a.brook-btn.bk-btn-red,
+body.template-color-39 button.brook-btn.bk-btn-red {
   background: #ffc851;
 }
 
@@ -58913,7 +59380,7 @@ body.template-color-39 .team.team_style--1 .image-wrap .thumb .overlay.red-color
   background-color: #ffc851;
 }
 
-body.template-color-39 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-39 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #ffc851;
 }
 
@@ -58959,7 +59426,8 @@ body.template-color-39 .blog-grid--modern.blog-standard.blog-yellow-color .post-
   background: #ffc851;
 }
 
-body.template-color-39 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-39 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-39 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-39 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #ffc851;
 }
 
@@ -59096,7 +59564,7 @@ body.template-color-39 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-39 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #ffc851;
+  background-color: #000;
 }
 
 body.template-color-39 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -59394,11 +59862,19 @@ body.template-color-40 .cart-table td.pro-addtocart button {
   background-color: #c4dcfa;
 }
 
-body.template-color-40 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-40 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #c4dcfa;
 }
 
-body.template-color-40 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-40 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #c4dcfa;
 }
 
@@ -59406,16 +59882,19 @@ body.template-color-40 .slider-business .video-btn a .video-icon.secondary-color
   background: #c4dcfa !important;
 }
 
-body.template-color-40 a.brook-btn.bk-btn-yellow, body.template-color-40 button.brook-btn.bk-btn-yellow {
+body.template-color-40 a.brook-btn.bk-btn-yellow,
+body.template-color-40 button.brook-btn.bk-btn-yellow {
   background: #c4dcfa;
   color: #fff !important;
 }
 
-body.template-color-40 a.bk-btn.theme-btn, body.template-color-40 button.bk-btn.theme-btn {
+body.template-color-40 a.bk-btn.theme-btn,
+body.template-color-40 button.bk-btn.theme-btn {
   background-color: #c4dcfa;
 }
 
-body.template-color-40 a.brook-btn.bk-btn-red, body.template-color-40 button.brook-btn.bk-btn-red {
+body.template-color-40 a.brook-btn.bk-btn-red,
+body.template-color-40 button.brook-btn.bk-btn-red {
   background: #c4dcfa;
 }
 
@@ -59521,7 +60000,7 @@ body.template-color-40 .team.team_style--1 .image-wrap .thumb .overlay.red-color
   background-color: #c4dcfa;
 }
 
-body.template-color-40 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-40 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #c4dcfa;
 }
 
@@ -59567,7 +60046,8 @@ body.template-color-40 .blog-grid--modern.blog-standard.blog-yellow-color .post-
   background: #c4dcfa;
 }
 
-body.template-color-40 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-40 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-40 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-40 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #c4dcfa;
 }
 
@@ -59704,7 +60184,7 @@ body.template-color-40 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-40 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #c4dcfa;
+  background-color: #000;
 }
 
 body.template-color-40 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -60002,11 +60482,19 @@ body.template-color-41 .cart-table td.pro-addtocart button {
   background-color: #7f48b0;
 }
 
-body.template-color-41 .team.team_style--4 .inner .content-header .social-network .social-list a:hover {
+body.template-color-41 .team.team_style--4
+.inner
+.content-header
+.social-network
+.social-list
+a:hover {
   color: #7f48b0;
 }
 
-body.template-color-41 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
+body.template-color-41 .testimonial--horizontal--active
+.swiper-pagination-custom
+.progressbar
+.filled {
   background: #7f48b0;
 }
 
@@ -60014,16 +60502,19 @@ body.template-color-41 .slider-business .video-btn a .video-icon.secondary-color
   background: #7f48b0 !important;
 }
 
-body.template-color-41 a.brook-btn.bk-btn-yellow, body.template-color-41 button.brook-btn.bk-btn-yellow {
+body.template-color-41 a.brook-btn.bk-btn-yellow,
+body.template-color-41 button.brook-btn.bk-btn-yellow {
   background: #7f48b0;
   color: #fff !important;
 }
 
-body.template-color-41 a.bk-btn.theme-btn, body.template-color-41 button.bk-btn.theme-btn {
+body.template-color-41 a.bk-btn.theme-btn,
+body.template-color-41 button.bk-btn.theme-btn {
   background-color: #7f48b0;
 }
 
-body.template-color-41 a.brook-btn.bk-btn-red, body.template-color-41 button.brook-btn.bk-btn-red {
+body.template-color-41 a.brook-btn.bk-btn-red,
+body.template-color-41 button.brook-btn.bk-btn-red {
   background: #7f48b0;
 }
 
@@ -60129,7 +60620,7 @@ body.template-color-41 .team.team_style--1 .image-wrap .thumb .overlay.red-color
   background-color: #7f48b0;
 }
 
-body.template-color-41 .team.team_style--1 .image-wrap .social-networks .inner a[class*=hint--]:after {
+body.template-color-41 .team.team_style--1 .image-wrap .social-networks .inner a[class*="hint--"]:after {
   background-color: #7f48b0;
 }
 
@@ -60175,7 +60666,8 @@ body.template-color-41 .blog-grid--modern.blog-standard.blog-yellow-color .post-
   background: #7f48b0;
 }
 
-body.template-color-41 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover, body.template-color-41 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
+body.template-color-41 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner h5.heading a:hover,
+body.template-color-41 .blog-grid--modern.blog-standard.blog-yellow-color .post-content .post-inner .post-meta .post-category a:hover {
   color: #7f48b0;
 }
 
@@ -60312,7 +60804,7 @@ body.template-color-41 .messonry-button button.is-checked span.filter-text {
 }
 
 body.template-color-41 .portfolio.portfolio_style--1 .port-overlay-info {
-  background-color: #7f48b0;
+  background-color: #000;
 }
 
 body.template-color-41 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
